@@ -19,7 +19,9 @@ Getting Started
 Follow the steps below to set up the project and run the model:
 
 ## 1. Clone the Repository
-git clone <repository-link>
+'''
+git clone https://github.com/iam-harsha-vardhan/Credit-card-fraud-detection
+'''
 
 cd Credit-Card-Fraud-Detection
 
